@@ -55,7 +55,7 @@ A complete automation toolkit for:
 - Templated config push (Jinja2)  
 - Parallel task execution (Nornir)  
 - YAML inventory support  
-→ *GitHub Repo:* **(Add link after upload)**
+→ *GitHub Repo:* https://sairamraccha.github.io/network-automation-python/
 
 ### 🔹 **NetGuardian-Auto**
 Your automation project to streamline ops and reduce manual intervention.  
