@@ -85,7 +85,7 @@ Your automation project to streamline ops and reduce manual intervention.
 ## 📫 **Connect with Me**
 📍 Hyderabad, India  
 📧 **sairamraccha@gmail.com**  
-🔗 **LinkedIn:** *Add your LinkedIn link here*  
+🔗 **LinkedIn:** www.linkedin.com/in/sairamraccha
 🔗 **GitHub:** https://github.com/sairamraccha  
 
 ---
