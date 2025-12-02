@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Sairam Raccha**
+#  Hello, I'm **Sairam Raccha**
 ### **Delivery Manager | Network & Telecom Architect | SD-WAN | MPLS | NOC Operations | AWS Certified**
 
 I am a Network & Telecom Solutions professional with **11+ years of experience** delivering large-scale Enterprise Network Solutions, SD-WAN/MPLS deployments, NOC Operations, Automation initiatives, and high-impact customer delivery programs.  
